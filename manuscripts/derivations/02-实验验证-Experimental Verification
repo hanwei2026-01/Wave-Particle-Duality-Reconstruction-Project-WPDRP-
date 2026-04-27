@@ -1,6 +1,6 @@
 为验证两种诠释的物理本质（波动和路径分离），现有针对性实验设计结合经典验证实验——阿弗沙尔实验（Afshar Experiment），共同对光的波动性与粒子路径分离理论进行裁决，摒弃数学拟合的模糊性，直接验证底层物理过程。
  
-二、相关实验原理与设计
+、相关实验原理与设计
  
 （一）原创验证实验设计
  
@@ -92,3 +92,76 @@
 3. 一句话总结 
 光本就是扩散的加确定路线，双缝只是让这种扩散和本征运动的几何结构放大到变得肉眼可见。扩散是能量包的运动形态，路径是能量包质心的运动轨迹。
 扩散是从有到无的过程，扩散的结束只是另一个的开始。
+To distinguish the physical essence between wave interpretation and path separation interpretation, targeted experimental designs, together with the classic Afshar Experiment, are adopted to judge the wave theory of light and the particle path separation theory. These approaches eliminate the ambiguity of mathematical fitting and directly verify the underlying physical mechanism.
+Principles and Design of Relevant Experiments
+(I) Original Verification Experiment Design
+1. Core Idea
+Based on the essential differences between wave interpretation and particle path separation interpretation, a miniature opaque baffle is placed between the double slit and the detection screen. Local disturbance is applied to distinguish the two theoretical mechanisms.
+Prediction of classical wave theory: Dark fringes contain light energy distribution. A baffle placed in such areas will absorb and scatter light energy and change the overall interference pattern. Local shielding will disturb global wave propagation and alter the distribution of all bright and dark fringes.
+Prediction of particle path separation theory: Dark fringes are physical path forbidden zones with no particles passing through. Placing a baffle in these areas cannot intercept particles. The global path rules for particle motion remain intact, and the interference pattern stays unchanged.
+2. Experimental Apparatus
+High-coherence He-Ne laser source, standard Young’s double-slit device, miniature metal baffle mounted on a nanometer-precision displacement platform (width far smaller than fringe spacing, approximately λ/10), and a high-resolution CCD detection system for precise positioning of dark fringe paths and pattern recording.
+3. Experimental Procedures
+Step 1: Record the original double-slit interference pattern without the baffle, and confirm the accurate position of each dark fringe.
+Step 2: Move the miniature baffle precisely to the optical path of dark fringes via the displacement platform.
+Step 3: Collect the interference pattern after shielding, and compare the differences in fringe position, intensity and contrast.
+(II) Classic Verification Experiment: Afshar Experiment
+As a completed classical optical test, the Afshar Experiment directly verifies the physical nature of dark fringes through local disturbance.
+Operation: An extremely thin metal wire is placed in the optical path of double-slit dark fringes to simulate local path shielding.
+Result: No observable changes occur in the position, intensity and contrast of dark fringes. The thin wire produces no disturbance to the interference pattern.
+Core Conclusion: No effective propagation path exists within dark fringe regions, and no light particles pass through these zones.
+III. Integration of Experimental Results and Theoretical Analysis
+(I) Summary of Experimental Results
+The predicted results of the original verification experiment are completely consistent with the actual data of the Afshar Experiment. When miniature obstacles such as baffles or metal wires are placed in dark fringe areas, the interference pattern remains entirely unchanged, and no light energy is intercepted or scattered.
+(II) Comparison of Theoretical Interpretations
+1. Logical Contradictions of Classical Wave Theory
+This experiment proves that shielding within dark areas cannot affect global bright and dark distribution. The traditional explanation based on wave superposition is invalid. Since waves belong to global continuous fields, any local disturbance should inevitably change the overall fringe structure.
+2. Self-Consistent Interpretation of Particle Path Separation Theory
+All phenomena can be explained perfectly by the particle path separation theory:
+Light consists of definite particles moving along diffused straight trajectories. Each particle follows a fixed path without random motion or wave-particle duality.
+The essence of double-slit interference lies in path constraints. Particles can only propagate along permitted routes, and dark fringes correspond to inherent forbidden zones, rather than energy cancellation caused by wave superposition.
+No particles pass through dark areas, so additional obstacles cannot intercept particles or break the global balance of propagation paths, keeping the interference pattern stable.
+The so-called “wave property” is not an intrinsic attribute of light. It is merely a statistical macroscopic appearance formed by the diffused distribution of massive particles along independent fixed paths.
+IV. Research Conclusions
+The Afshar Experiment and the original verification experiment form a complete evidence chain. They deny the mechanism of coherent superposition and destructive interference in traditional wave optics, and confirm that dark fringes are pure particle path forbidden zones instead of regions with canceled energy.
+Experimental data fully support the particle path separation theory. Light is essentially composed of discrete energy packets moving along diffused straight paths. Wave vibration and superposition do not exist in real physical processes. All optical interference and diffraction phenomena originate from path screening and spatial distribution of particles.
+The wave interpretation adopted in modern quantum optics is only a mathematical fitting description, not a reflection of real physical mechanisms. The particle path separation theory strictly follows the law of conservation energy, conforms to physical intuition, and provides a unified explanation for both macroscopic and microscopic optical phenomena.
+This study combines original experimental design and classical conclusions to verify the real physical process of light propagation, rather than relying on pure mathematical simulation. The results show that light propagation always follows deterministic linear diffusion rules. Abstract concepts such as superposition state, wave function collapse and destructive interference can be eliminated. This research provides a concise and realistic underlying interpretation for basic optical theory, and lays an experimental foundation for further study on the motion rules of light energy packets.
+Classic Case: Afshar Experiment
+Researchers placed a thin metal wire directly inside dark fringe regions.
+Final result: The interference pattern remained completely unchanged.
+Core Logical Reconstruction: Eigen Model — Path Separation
+Rather than path splitting, optical phenomena are the geometric manifestation of the intrinsic eigen model. Light always propagates in the form of energy packets with deterministic linear motion. Each energy packet travels along fixed geometric trajectories restricted by boundary conditions, instead of moving randomly in space. These independent paths are physically real routes, not abstract mathematical probability amplitudes. Diffraction and interference are macroscopic statistical effects generated by massive energy packets moving along separated paths and depositing energy on the receiving screen. The stable distribution of bright and dark fringes directly proves that optical paths are fixed and exclusive.
+1. Undeniable Experimental Fact: Absolute Stability
+Both single-slit and double-slit patterns present stable characteristics:
+Absolutely black dark fringes with no light leakage, proving that certain spatial regions are permanent physical forbidden zones that energy packets can never enter.
+Highly concentrated bright fringes, indicating that energy packets accurately converge in designated areas.
+Long-term stability of fringe position and intensity, independent of time and light intensity.
+2. Logical Deduction: Stability Determinism
+If optical paths were uncertain and random as described by probability wave theory:
+Long-term exposure would inevitably blur fringe boundaries.
+Weak light leakage would appear within dark regions with non-zero probability.
+However, actual observations show sharp, permanent and invariant fringes.
+This fact leads to a unique conclusion: every energy packet moves along a single, deterministic path. Guided by the geometric structure of optical devices, energy packets travel steadily on independent eigen paths. Dark areas are dark due to the absence of available paths, while bright areas gather massive energy packets along fixed routes.
+3. Conclusion
+Light propagation is the parallel motion of numerous energy packets along deterministic and exclusive paths. Regardless of microscopic motion details, the final destination of each energy packet is determined by the compression and amplification mechanism of the energy packet grid. The absolute stability of bright and dark fringes serves as conclusive experimental evidence.
+Physical Mechanism: Geometric Slicing and Reprojection
+1. Intrinsic Diffusion
+Light carries natural diffusion characteristics when emitted from the source, forming a distributed energy field rather than an ideal point source.
+2. Geometric Function of Double Slits
+Double slits do not split light, but act as a geometric amplifier and sampler for diffused light fields. They screen valid diffusion routes and guide massive particles to complete overall path separation. Multiple stable optical channels with clear intervals are formed, and dark fringes naturally appear in path gaps without any wave interference.
+3. Fringe Formation on the Screen
+Clear bright and dark patterns are formed by the spatial projection of separated diffusion paths. Dark fringes correspond to areas with no accessible particle trajectories.
+Conclusion: From Path Splitting to Geometric Manifestation
+Essential nature of light: Light exists as diffused particle flow. Its macroscopic wave characteristic is only a statistical result of path separation under geometric constraints.
+Function of single slits and double slits: These structures screen and amplify inherent diffusion paths, instead of splitting light waves.
+Essential nature of dark fringes: Inherent path forbidden zones caused by geometric constraints, rather than regions with vanished energy.
+Summary in One Sentence
+Light possesses both diffusion characteristics and fixed intrinsic motion routes. Double-slit structures magnify such geometric features to a visible scale. Diffusion represents the spatial expansion form of energy packets, while separated paths determine the definite motion trajectory of particle centroids. Diffusion is a continuous transitional process in energy propagation.
+
+
+
+
+
+
+
