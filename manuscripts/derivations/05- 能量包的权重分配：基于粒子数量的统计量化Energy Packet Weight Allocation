@@ -1,4 +1,4 @@
-05-能量包的权重分配：基于粒子数量的统计量化
+中文；05-能量包的权重分配：基于粒子数量的统计量化
 第四章本文对量子力学中核心概念 
 . 核心定义：从“概率”到“能量排布” 
 传统定义（哥本哈根）：
@@ -44,7 +44,7 @@ N 就是那个“边界”的制造者。
 5. 结论与展望
 讨论其在光路设计、光学计算成像、芯片优化等领域的潜在应用。
 指出其局限性（如不适用于单光子级别现象），但强调其在宏观工程领域的简洁与实用价值。
-05. Weight Distribution of Energy Packets: Statistical Quantification Based on Particle Quantity
+English:05. Weight Distribution of Energy Packets: Statistical Quantification Based on Particle Quantity
 Chapter 4 Reconstruction of Core Concepts in Quantum Mechanics
 Core Definition: From Probability to Energy Arrangement
 Traditional Copenhagen DefinitionP(x)=∣ψ(x)∣2Physical meaning: the probability of finding a particle at position x.
