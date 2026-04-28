@@ -1,23 +1,4 @@
-中文；双缝多组角度衍射能量分布验证实验
-一、实验目的
-验证多组不同角度衍射约束下，能量包交叉排布对明暗纹的重构作用，证实暗纹区域可被完全覆盖，推翻传统光学波动抵消理论。
-二、实验装置
-平行光发射源
-多组不同角度双缝衍射板（设置 3 组及以上不同倾斜角度、间距一致的双缝结构，呈交错排布）
-能量接收探测屏
-遮光外壳（排除外界杂光干扰）
-三、实验步骤
-搭建实验光路，将多组角度双缝衍射板置于平行光发射源与能量接收探测屏之间，保证光源垂直入射双缝组。
-开启平行光光源，让光线同步穿过所有不同角度的双缝结构，在探测屏上形成纹路分布。
-稳定光源输出，观测并记录探测屏上的纹路形态、明暗区域分布状态。
-四、传统理论预判
-传统光学认为，多组角度衍射仅会形成叠加干涉纹路，暗纹区域依旧存在，是光波相位抵消的结果，不会出现暗区完全覆盖的现象。
-五、本理论实验预测
-光线穿过多组不同角度双缝后，各组双缝均会产生独立衍射，多方向能量包行进路径全面交叉、相互挤压；
-原本单一双缝形成的暗纹区域，会被其他角度衍射的能量包填充覆盖，探测屏上无绝对暗区，仅存在能量包排布疏密不同形成的明暗差异；
-明暗纹分布由能量包交叉叠加后的密度决定，而非光波抵消，彻底颠覆传统干涉暗纹成因。
-六、实验优势
-规避单一光路衍射干扰、观测者效应及介质能量损耗问题，实验变量单一，现象直观，可直接验证能量包排布规律。
+
 English:Verification Experiment on Energy Distribution of Multi-Angle Double-Slit Diffraction
 1. Experimental Purpose
 To verify the reconstruction effect of cross arrangement of energy packets on bright and dark fringes under multi-angle diffraction constraints, confirm that dark fringe areas can be completely covered, and overturn the traditional optical wave cancellation theory.
